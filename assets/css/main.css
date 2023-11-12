@@ -4692,3 +4692,9 @@ input, select, textarea {
 		}
 
 	}
+	@media (max-width: 1199px) and (min-width: 769px) {
+		img {
+		  width: 675px;
+		  height: 675px;
+		}
+	  }
